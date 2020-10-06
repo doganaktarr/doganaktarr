@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dogan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doganaktarr" alt="doganaktarr" /> </p>
 
 - 📫 How to reach me **doganaktar@gmail.com**
 
